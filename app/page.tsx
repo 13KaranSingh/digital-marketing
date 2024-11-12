@@ -256,7 +256,7 @@ export default function Home() {
                 </div>
               </div>
             </div>
-
+{/* Add company logos here that u wrok with */}
             <section className="overflow-hidden mt-10 md:w-4/5">
               <InfiniteMovingLogos
                 speed="slow"
